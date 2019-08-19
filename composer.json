@@ -1,0 +1,19 @@
+{
+    "name": "mj/send",
+    "description": "To send email to specified users and save details to db",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "manu.joseph",
+            "email": "manu.joseph@cubettech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mj\\Send\\": "src/"
+        }
+    }
+}
